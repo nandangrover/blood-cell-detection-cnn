@@ -8,3 +8,4 @@
 We have built a blood cell detection model for Multi-class image classification usign Convolution Neural Net. We are doing all of this while using fastai for tasks such as data augmentation, early stopping, data visualization and model evaluation. We have reached a maximum accuracy of 93.62% with our proposes model architecture
 
 ## Medium Article
+https://medium.com/@nandangrover/convolution-neural-nets-and-multi-class-image-classification-fastai-51cd5e59ef19
